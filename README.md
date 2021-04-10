@@ -1,4 +1,4 @@
-# gallery_app
+# Galleria
 
 A new Flutter application.
 
