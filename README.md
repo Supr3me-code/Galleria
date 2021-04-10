@@ -1,6 +1,6 @@
 # Galleria
 
-A new Flutter application.
+An app that integrates with your device gallery and camera. You can import selected images to Galleria or add more pictures through the lens to your personalized gallery.
 
 ## Getting Started
 
