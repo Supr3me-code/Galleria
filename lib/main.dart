@@ -20,9 +20,9 @@ class MyPage extends StatefulWidget {
 }
 class _MyPageState extends State<MyPage> {
   /// Variable
-
   File imageFile;
   String imageFileStr;
+
   List<String> pics = [];
 
   /// Widget
