@@ -1,6 +1,19 @@
 # Galleria
+Photo Management app  
+<img src="readme/Galleria.png" width=200 height=200>
 
 An app that integrates with your device gallery and camera. You can import selected images to Galleria or add more pictures through the lens to your personalized gallery.
+
+## Packages used:
+image_picker: ^0.7.4  
+path: ^1.8.0  
+path_provider: ^2.0.1  
+provider: ^5.0.0  
+camera: ^0.8.1  
+image_gallery: ^1.2.0  
+
+## Screenshots
+<img src="readme/Screenshot_2021-04-15-19-28-30-474_com.gallery_app.jpg" width=200 height=400><img src="readme/Screenshot_2021-04-15-19-29-46-238_com.android.camera.jpg" width=200 height=400><img src="readme/Screenshot_2021-04-15-19-30-07-628_com.google.android.documentsui.jpg" width=200 height=400><img src="readme/Screenshot_2021-04-15-19-30-31-783_com.gallery_app.jpg" width=200 height=400>
 
 ## Getting Started
 
